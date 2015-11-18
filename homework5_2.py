@@ -46,4 +46,4 @@ while True:
     except:
         print "It is not a number... Try again..."
 
-my_age = Age_checker(x)
+my_age = Age_checker(x) #instance of class is feeded with input value
